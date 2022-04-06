@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MusicPlayer2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MusicPlayer2 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
